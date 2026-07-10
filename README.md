@@ -1,3 +1,6 @@
+# Sales Prediction using Python
+Sales Prediction using Python and Machine Learning. Built a Linear Regression model to forecast sales based on TV, Radio, and Newspaper advertising data. Includes data cleaning, EDA, feature selection, model evaluation, visualizations, and business insights.
+
 How to Open and Run the Notebook
 Option 1: Open in Google Colab (Recommended)
 Open this GitHub repository.
